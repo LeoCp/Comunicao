@@ -16,7 +16,7 @@ Comunição
  Exemplo:
  Quando falo cadeira, logo cadeira é um referente, mas eu tenho uma imagem do referente, e uma representação fisíca.
 
-- Quando falamos, a representação e a imagem nem sempre correspondem igualmente para cada um dos envolvidos nessa relação.
+- Quando falamos, a REPRESENTAÇÃO e a IMAGEM nem sempre correspondem igualmente para cada um dos envolvidos nessa relação.
   
 
  
