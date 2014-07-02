@@ -6,5 +6,7 @@ Comunição
 - Na vida a gente só percebe uma coisa, na qual estamos focados.
 - A Comuniação é composta por REFERENTES, SIGNIFICADOS e SIGNIFICANTES.
 
- REFERENTE:
+ REFERENTE: O objetivo, a situação, o acontecimento que está acontecendo.
+ SIGNIFICADO:
+ SIGNIFICANTE:
  
