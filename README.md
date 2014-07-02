@@ -96,7 +96,7 @@ Conclusao:
 
 
 
-Logo uma mensagem, para obter os efeitos desejados, deve estar na razão direta do interesse suscitado: quanto mais interesse nossas comunicações obtiverem, mais possibilidades de serem transformadas em ação
+Logo uma mensagem, para obter os efeitos desejados, deve estar na razão direta do interesse suscitado. Quanto mais interesse nossas comunicações obtiverem, mais possibilidades de serem transformadas em ação
 
 
 
