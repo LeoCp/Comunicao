@@ -94,6 +94,8 @@ Conclusao:
 * Principal barreira que dificulta a comunicação: a tendência das pessoas a avaliar.
 
 
+
+
 Logo uma mensagem, para obter os efeitos desejados, deve estar na razão direta do interesse suscitado: quanto mais interesse nossas comunicações obtiverem, mais possibilidades de serem transformadas em ação
 
 
