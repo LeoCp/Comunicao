@@ -2,7 +2,12 @@ Comunição
 ===========
 Indice:
 ------
-[Visit GitHub!](https://github.com/LeoCp/Comunicao#habilidade-de-comunica%C3%A7%C3%A3o)
+[Habilidade de Comunicação](https://github.com/LeoCp/Comunicao#habilidade-de-comunica%C3%A7%C3%A3o)
+[Comunicação Gerencial](https://github.com/LeoCp/Comunicao#comunica%C3%A7%C3%A3o-gerencial)
+[Comunicação: Duas Vias](https://github.com/LeoCp/Comunicao#comunica%C3%A7%C3%A3o-duas-vias)
+[Barreiras](https://github.com/LeoCp/Comunicao#barreiras)
+[Barreiras:Emocional](https://github.com/LeoCp/Comunicao#barreira-emocional-)
+[4 Condições]()
 
 Introdução:
 ----------
