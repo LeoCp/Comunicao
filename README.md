@@ -16,13 +16,10 @@ Comunição
  Exemplo:
  Quando falo cadeira, logo cadeira é um referente, mas eu tenho uma imagem do referente, e uma representação fisíca.
 
-- Quando falamos, a REPRESENTAÇÃO e a IMAGEM nem sempre correspondem igualmente para cada um dos envolvidos nessa relação.
+- Quando falamos a REPRESENTAÇÃO e a IMAGEM nem sempre correspondem igualmente para cada um dos envolvidos nessa relação.
 - Todo REFERENTE tem um SIGNIFICADO e um SIGNIFICANTE.
-- A COMUNICAÇÃO é tudo aquilo que o receptor compreendeu e não o que o emisor falou.  
+- A COMUNICAÇÃO é tudo aquilo que o receptor compreendeu e não o que o emissor falou.  
+- Quando você comunica você pressupõe que o outro vai utilizar aquilo para alguma coisa.
+- Comunicar é o que o outro entendeu e não o que você falou.
 
-- Comunicação Gerencial: Maior parte dos elos da cadeia de comunicação está no grupo gerencial.
- - Gerentes precisam de informações úteis e oportunas para tomar decisões.
- - Influencia gerencial é grande. Afetam pessoas e atividades
- - Papel crítico: começar as comunicações, interpretá-las e passá-las adiante.
- - Conseqüência de muitos elos: perda de informações.
- 
+
