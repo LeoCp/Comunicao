@@ -72,7 +72,18 @@ Principal barreira que dificulta a comunicação
 * Como as pessoas se comportam numa discussão acalorada?
 * O impulso em avaliar declarações emocionalmente significativas a partir do nosso próprio ponto de vista é o que bloqueia a comunicação interpessoal. 
 
+Logo...
+-------
 
+Uma mensagem, para obter os efeitos desejados, deve estar na razão direta do interesse suscitado: quanto mais interesse nossas comunicações obtiverem, mais possibilidades de serem transformadas em ação
+
+Existem 4 CONDICÕES para que um ato comunicativo seja realmente entendido e cumprido:
+------------------------------------------------------------------------------------
+
+* A mensagem deve chamar a ATENÇÃO do destinatário. 
+* A mensagem deve empregar signos comuns tanto da parte do comunicador como do receptor.
+* A mensagem deve suscitar o interesse do receptor.
+* A mensagem deve levar em consideração o grupo no qual o receptor se encontra e o momento que a recebe.
 
 
 
