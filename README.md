@@ -28,3 +28,11 @@ Comunição
 - Para desenvolver a Habilidade de Comunicação você prescisa:
   - Ouvir.
   - Validar o que ouviu.
+
++ Comunicação Gerencial:
+
+Maior parte dos elos da cadeia de comunicação está no grupo gerencial.
+ - Gerentes precisam de informações úteis e oportunas para tomar decisões.
+ - Influencia gerencial é grande. Afetam pessoas e atividades
+ - Papel crítico: começar as comunicações, interpretá-las e passá-las adiante.
+ - Conseqüência de muitos elos: perda de informações
