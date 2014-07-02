@@ -17,6 +17,7 @@ Comunição
  Quando falo cadeira, logo cadeira é um referente, mas eu tenho uma imagem do referente, e uma representação fisíca.
 
 - Quando falamos, a REPRESENTAÇÃO e a IMAGEM nem sempre correspondem igualmente para cada um dos envolvidos nessa relação.
-  
+- Todo REFERENTE tem um SIGNIFICADO e um SIGNIFICANTE.
+- A COMUNICAÇÃO é tudo aquilo que o receptor compreendeu e não o que o emisor falou.  
 
  
