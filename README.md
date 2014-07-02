@@ -40,7 +40,7 @@ Maior parte dos elos da cadeia de comunicação está no grupo gerencial.
 * Conseqüência de muitos elos: perda de informações.
 
 
-BARREIRAS:
+Barreiras:
 ---------
 
 Podem impedir, filtrar ou dar um sentido errôneo à comunicação 
