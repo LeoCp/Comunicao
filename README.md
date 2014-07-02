@@ -101,7 +101,8 @@ Conclusao:
 ----------
 
 * O gerente deve usar as informações e o conhecimento que estão disponíveis.
-* Mudar uma cultura organizacional é um processo demorado. - Requer a compreensão do que se quer mudar e do que está impedindo as pessoas de conseguir isso. Requer, também, que se defina claramente as atitudes e os comportamentos desejáveis.
+* Mudar uma cultura organizacional é um processo demorado. 
+* Requer a compreensão do que se quer mudar e do que está impedindo as pessoas de conseguir isso. Requer, também, que se defina claramente as atitudes e os comportamentos desejáveis.
 * Uma organização totalmente franca e homogênea é perigosa.
 * Grandes organizações prosperam na diversidade.
 * O processo de seleção de funcionários é a ferramenta mais importante para criar uma empresa com melhor fluxo de comunicação.
