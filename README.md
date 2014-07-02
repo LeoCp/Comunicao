@@ -1,5 +1,8 @@
 Comunição
 ===========
+Indice:
+------
+[Visit GitHub!](https://github.com/LeoCp/Comunicao#habilidade-de-comunica%C3%A7%C3%A3o)
 
 Introdução:
 ----------
