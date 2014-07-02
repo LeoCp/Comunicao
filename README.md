@@ -18,8 +18,11 @@ Comunição
 
 - Quando falamos a REPRESENTAÇÃO e a IMAGEM nem sempre correspondem igualmente para cada um dos envolvidos nessa relação.
 - Todo REFERENTE tem um SIGNIFICADO e um SIGNIFICANTE.
+
 - A COMUNICAÇÃO é tudo aquilo que o receptor compreendeu e não o que o emissor falou.  
+
 - Quando você comunica você pressupõe que o outro vai utilizar aquilo para alguma coisa.
+
 - Comunicar é o que o outro entendeu e não o que você falou.
 
 
