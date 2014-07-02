@@ -2,12 +2,12 @@ Comunição
 ===========
 Indice:
 ------
-[Habilidade de Comunicação](https://github.com/LeoCp/Comunicao#habilidade-de-comunica%C3%A7%C3%A3o)
-[Comunicação Gerencial](https://github.com/LeoCp/Comunicao#comunica%C3%A7%C3%A3o-gerencial)
-[Comunicação: Duas Vias](https://github.com/LeoCp/Comunicao#comunica%C3%A7%C3%A3o-duas-vias)
-[Barreiras](https://github.com/LeoCp/Comunicao#barreiras)
-[Barreiras:Emocional](https://github.com/LeoCp/Comunicao#barreira-emocional-)
-[4 Condições]()
+* [Habilidade de Comunicação](https://github.com/LeoCp/Comunicao#habilidade-de-comunica%C3%A7%C3%A3o)
+* [Comunicação Gerencial](https://github.com/LeoCp/Comunicao#comunica%C3%A7%C3%A3o-gerencial)
+* [Comunicação: Duas Vias](https://github.com/LeoCp/Comunicao#comunica%C3%A7%C3%A3o-duas-vias)
+* [Barreiras](https://github.com/LeoCp/Comunicao#barreiras)
+* [Barreiras:Emocional](https://github.com/LeoCp/Comunicao#barreira-emocional-)
+* [4 Condições]()
 
 Introdução:
 ----------
@@ -88,8 +88,9 @@ Principal barreira que dificulta a comunicação
 * O impulso em avaliar declarações emocionalmente significativas a partir do nosso próprio ponto de vista é o que bloqueia a comunicação interpessoal. 
 
 
+4 CONDICÕES:
+------------
 Existem 4 CONDICÕES para que um ato comunicativo seja realmente entendido e cumprido:
-------------------------------------------------------------------------------------
 
 * A mensagem deve chamar a ATENÇÃO do destinatário. 
 * A mensagem deve empregar signos comuns tanto da parte do comunicador como do receptor.
