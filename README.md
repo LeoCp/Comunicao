@@ -25,9 +25,12 @@ Comunição
 
 - Comunicar é o que o outro entendeu e não o que você falou.
 
-- Para desenvolver a Habilidade de Comunicação você prescisa:
-  - Ouvir.
-  - Validar o que ouviu.
+Habilidade de Comunicação:
+-------------------------
+
+Para desenvolver essa habilidade você precisa: 
+* Ouvir.
+* Validar o que ouviu.
 
 Comunicação Gerencial:
 ---------------------
