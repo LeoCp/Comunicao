@@ -12,7 +12,7 @@ Comunição
  + Referente: O objetivo, a situação, o acontecimento que está acontecendo.
  + Significado: É a imagem mental desse referente.
  + Significante: É a representação fisica desse referente.
->Exemplo:
-
+Exemplo:
+  
 
  
