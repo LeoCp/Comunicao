@@ -39,6 +39,17 @@ Maior parte dos elos da cadeia de comunicação está no grupo gerencial.
 * Papel crítico: começar as comunicações, interpretá-las e passá-las adiante.
 * Conseqüência de muitos elos: perda de informações.
 
+Comunicação: Duas Vias
+----------------------
+* Elaborar a ideia: Certifique-se de o cérebro está envolvido antes de colocar a boca em funcionamento.
+* Codificar: palavras, mapas, figuras e outros símbolos adequados à transmissão.
+* Transmitir: memorandos, conversação pessoal, por telefone, etc.
+* Recebimento: receptor deve funcionar, senão a mensagem estará perdida.
+* Decodificação: receptor precisa conhecer código da mensagem para que seja compreendida.
+* Aceitar: receptor escolhe se vai ou não adotar toda ou parte da mensagem.
+* Usar: descartar, executar a tarefa ou fazer qualquer coisa.
+* Dar feedback: receptor responde ao emissor.
+
 
 Barreiras:
 ---------
@@ -52,6 +63,14 @@ Podem impedir, filtrar ou dar um sentido errôneo à comunicação
 * Avaliar e Julgar: pensar que os outros percebem a realidade como nós a vemos. Reações são mais intensas em situações que emoções estão envolvidos. 
 * Outras barreiras dentro da empresa: padrões disfuncionais de comportamento, falta de visão de liderança organizacional, barreiras estruturais e geográficas, barreiras interculturais e excesso de dados.
 
+Barreira Emocional 
+------------------
+
+Principal barreira que dificulta a comunicação 
+
+* Quando mais forte o sentimento, menos provável que existe uma comunicação mútua. Serão apenas duas idéias, dois sentimentos ou dois julgamentos se desencontrando no espaço psicológico.
+* Como as pessoas se comportam numa discussão acalorada?
+* O impulso em avaliar declarações emocionalmente significativas a partir do nosso próprio ponto de vista é o que bloqueia a comunicação interpessoal. 
 
 
 
