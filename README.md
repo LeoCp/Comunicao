@@ -5,6 +5,8 @@ Comunição
 - Tudo que é comunicado e constituido de duas questões importantes que é o DECODIFICADOR e CODIFICADOR.
 - Na vida a gente só percebe uma coisa, na qual estamos focados.
 - A Comuniação é composta por REFERENTES, SIGNIFICADOS e SIGNIFICANTES.
++ DFHDSFHSD
+
 
  REFERENTE: O objetivo, a situação, o acontecimento que está acontecendo.
  SIGNIFICADO:
