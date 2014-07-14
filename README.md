@@ -90,7 +90,7 @@ Principal barreira que dificulta a comunicação
 * O impulso em avaliar declarações emocionalmente significativas a partir do nosso próprio ponto de vista é o que bloqueia a comunicação interpessoal. 
 
 
-4 CONDICÕES:
+4 condições:
 ------------
 Existem 4 CONDICÕES para que um ato comunicativo seja realmente entendido e cumprido:
 
