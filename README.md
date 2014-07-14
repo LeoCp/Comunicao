@@ -33,7 +33,7 @@ Introdução:
 - Quando falamos a REPRESENTAÇÃO e a IMAGEM nem sempre correspondem igualmente para cada um dos envolvidos nessa relação.
 - Todo **referente** tem um **significado** e um **significante**.
 
-- A **comunicação** é tudo aquilo que o receptor compreendeu e não o que o emissor falou.  
+- A **comunicação** é tudo aquilo que o **receptor** compreendeu e não o que o **emissor** falou.  
 
 - Quando você comunica você pressupõe que o outro vai utilizar aquilo para alguma coisa.
 
